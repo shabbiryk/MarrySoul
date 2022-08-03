@@ -1,0 +1,37 @@
+{
+"attributes": [
+    {
+        "trait_type":"nature",
+        "value":"introverted"
+    },
+    {
+        "trait_type":"intelligence quotient",
+        "value":"Super high" 
+    },
+    {
+        "trait_type":"Physical",
+        "value":"Super poor" 
+    },    
+    {
+        "display_type":"boost_percentage",
+        "trait_type":"lucky Value",
+        "value":"100"
+    },
+    {
+        "display_type":"boost_number",
+        "trait_type":"Wealth value",
+        "value":"70"
+    },
+    {
+        "display_type":"date",
+        "trait_type":"birthday",
+        "value":"1546360800"
+    }
+],
+
+    "description":"I am testing the Mumbai network",
+    "external_url":"https://github.com/VISHAL-143x",
+    "image":"https://bafybeicnnzqiizbwz5c5kger2tzedc7g4q5tj6onqennicwhjni6mk3bym.ipfs.nftstorage.link/",
+    "name":"Vishal"
+
+}
